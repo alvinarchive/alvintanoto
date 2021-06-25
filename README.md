@@ -1,7 +1,7 @@
 ### Hello world! 👋
 
 <p>
-  <a href="https://www.linkedin.com/in/alvin-tanoto-662537152/?originalSubdomain=id" target='_blank'>
+  <a href="https://www.linkedin.com/in/alvin-tanoto-662537152/?originalSubdomain=id" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>&nbsp;&nbsp;
 </p>
