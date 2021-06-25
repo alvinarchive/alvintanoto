@@ -7,7 +7,6 @@
 </p>
 
 - 💻 Software Engineer @Polytron
-- 👯 Any questions?, Hit me up!
 
 ## Stats Right Now!
 
