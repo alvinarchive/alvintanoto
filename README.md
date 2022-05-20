@@ -6,7 +6,7 @@
   </a>&nbsp;&nbsp;
 </p>
 
-- 💻 Software Engineer @Polytron
+- 💻 Ex - Software Engineer @Polytron
 
 ## Stats Right Now!
 
